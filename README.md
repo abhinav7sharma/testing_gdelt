@@ -8,5 +8,5 @@ The directory Raw Data Files Collection System contains the code and directories
 '''
 
 ```diff
-- text in red
+text in red
 ```
